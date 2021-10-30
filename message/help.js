@@ -690,13 +690,13 @@ exports.infoowner = (prefix) => {
 return `
 Owner = wa.me/6282332977630
 
-YouTube = Hanbu FF
+YouTube = Upix Gaming
 
-Grup Helga Bot Officials 1 = https://chat.whatsapp.com/Kq1tRw671pUAIoFfrtjkgU
+Grup JB || PIX STORE 1 = https://chat.whatsapp.com/Kq1tRw671pUAIoFfrtjkgU
 
-Grup Helga Bot Officials 2 = https://chat.whatsapp.com/DOroTA1S29U1L7F3XrLfmO
+Grup JB || PIX STORE 2 = https://chat.whatsapp.com/DOroTA1S29U1L7F3XrLfmO
 
-Grup Helga Bot Officials 3 = https://chat.whatsapp.com/Du37NUKuupO0P2IrWHJEyI
+Grup JB || PIX STORE 3 = https://chat.whatsapp.com/Du37NUKuupO0P2IrWHJEyI
 
 `
 }
